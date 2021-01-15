@@ -45,8 +45,7 @@ public:
 				}
 			}
 
-		}
-		else {
+		} else {
 			tag = NO_SYMBOLS_REMAIN;
 		}
 
@@ -65,8 +64,8 @@ public:
 			input.erase(str_MIN, str_MAX);
 
 			syntax_check(input, str_to_find);
-		}
-		else {
+
+		} else {
 			std::cout << "No symbols remain" << std::endl;
 			return false;
 		}
