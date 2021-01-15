@@ -1,4 +1,3 @@
 ﻿  parser.cpp
-C:\Users\cianm\source\repos\XML_Parser\XML_Parser\src\parser.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\cianm\source\repos\XML_Parser\XML_Parser\src\parser.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cianm\source\repos\XML_Parser\XML_Parser\src\parser.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
   XML_Parser.vcxproj -> C:\Users\cianm\source\repos\XML_Parser\Debug\XML_Parser.exe
